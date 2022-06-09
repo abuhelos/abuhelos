@@ -7,11 +7,12 @@ Put Intro about yourself here.
 ## Skills + Experience
 
 - ⚛️ React 
-- HTML, CSS, and JS
+- 🖥 HTML, CSS, and JS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
 
 ## Most Recent Project
 
+## Github Stats
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhelos&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
