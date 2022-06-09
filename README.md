@@ -9,7 +9,7 @@ Put Intro about yourself here.
 - ⚛️ React 
 - HTML, CSS, and JS
 
-- 🔭 I’m currently working on this page. 
+## Most Recent Project
 
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhelos&show_icons=true&theme=tokyonight)
