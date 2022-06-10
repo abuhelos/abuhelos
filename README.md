@@ -2,7 +2,7 @@
 
 # Andrew Buhelos
 
-Put Intro about yourself here. 
+Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodist University. I am an aspring software developer and enjoy working with frameworks like React and am planning on learning either Solidity or Node.js in the near future. In my free time I like to play tennis and go to the gym.
 
 ## Skills + Experience
 
@@ -15,7 +15,3 @@ Put Intro about yourself here.
 
 ## Most Recent Project
 <a href="https://abuhelos.github.io/weather-app/"><img src="Weather.jpg" height="auto" /></a>
-
-## Github Stats
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhelos&show_icons=true&theme=tokyonight)
