@@ -11,11 +11,7 @@ Put Intro about yourself here.
 - 💅 CSS
 - 📝 JS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
+<div style="float: right;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)</div>
 
 ## Most Recent Project
 <a href="https://abuhelos.github.io/weather-app/"><img src="Weather.jpg" height="auto" /></a>
