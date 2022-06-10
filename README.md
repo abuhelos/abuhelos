@@ -7,7 +7,9 @@ Put Intro about yourself here.
 ## Skills + Experience
 
 - ⚛️ React 
-- 🖥 HTML, CSS, and JS
+- 🖥 HTML
+- 💅 CSS
+-📝 JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
 
