@@ -9,12 +9,12 @@ Put Intro about yourself here.
 - ⚛️ React 
 - 🖥 HTML
 - 💅 CSS
--📝 JS
+- 📝 JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
 
 ## Most Recent Project
-<img href="https://abuhelos.github.io/weather-app/" src="Weather.jpg" height="auto" />
+<a href="https://abuhelos.github.io/weather-app/"><img src="Weather.jpg" height="auto" /></a>
 
 ## Github Stats
 
