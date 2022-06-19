@@ -2,7 +2,7 @@
 
 # Andrew Buhelos
 
-Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodist University. I am an aspring software developer and enjoy working with frameworks like React. I am planning on learning either Solidity or Node.js (or both) in the near future. In my free time I like to play tennis and go to the gym.
+Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodist University. I am a frontend software devleoper specializing in React. In my free time I like to play tennis and go to the gym.
 
 ## Skills + Experience
 
