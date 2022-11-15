@@ -4,11 +4,12 @@ Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodis
 
 ## Skills + Experience
 
-- ⚛️ React 
-- 🖥 HTML
-- 💅 CSS
-- 📝 JS
-- ⛓ Solidity
+- ⚛React 
+- HTML
+- CSS
+- JS
+- TypeScript
+- Solidity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
 
