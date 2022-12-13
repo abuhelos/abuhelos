@@ -4,7 +4,7 @@ Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodis
 
 ## Skills + Experience
 
-- React 
+- React JS/Native
 - HTML
 - CSS
 - JS
