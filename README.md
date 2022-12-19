@@ -1,6 +1,6 @@
 # Andrew Buhelos
 
-Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodist University. I am a frontend software developer specializing in React. In my free time I like to play tennis and go to the gym.
+Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodist University. I am a frontend software developer specializing in React. 
 
 ## Skills + Experience
 
