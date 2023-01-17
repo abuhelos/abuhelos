@@ -15,7 +15,5 @@ Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodis
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhelos&layout=compact)](https://github.com/abuhelos/github-readme-stats)
-
 ## Most Recent Project
 <a href="https://abuhelos.github.io/weather-app/"><img src="Weather.jpg" height="auto" /></a>
