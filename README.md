@@ -18,4 +18,4 @@ Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodis
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhelos&hide=contribs,prs)
 
 ## Most Recent Project
-<a href="https://abuhelos.github.io/weather-app/"><img src="Weather.jpg" height="auto" /></a>
+<a href="https://abuhelos.github.io/weather-app/"><img src="Weather.jpg" height="400px" /></a>
