@@ -11,7 +11,6 @@ Hi, I'm Andrew from Chicago, Illinois and recent graduate from Southern Methodis
 - TypeScript
 - MySQL
 - Express + Node JS
-- Solidity
 
 ![Top Languages](https://github-readme-stats-abuhelos.vercel.app/api/top-langs/?username=abuhelos&layout=compact)
 
